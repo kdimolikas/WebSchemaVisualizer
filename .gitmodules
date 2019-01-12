@@ -1,0 +1,6 @@
+[submodule "WebParmenidianTruth"]
+	path = WebParmenidianTruth
+	url = C:/Users/PANOS/git/WebParmenidianTruth
+[submodule "ParmenidianTruth-API"]
+	path = ParmenidianTruth-API
+	url = C:/Users/PANOS/git/ParmenidianTruth-API
