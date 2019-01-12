@@ -1,3 +1,6 @@
 [submodule "WebParmenidianTruth"]
 	path = WebParmenidianTruth
 	url = https://github.com/kdimolikas/WebParmenidianTruth.git
+[submodule "ParmenidianTruth-API"]
+	path = ParmenidianTruth-API
+	url = https://github.com/kdimolikas/ParmenidianTruth-API.git
