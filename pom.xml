@@ -30,8 +30,8 @@
   </dependencies>
   <modules>
   	
-  	<module>../ParmenidianTruth-API</module>
+  	<module>./ParmenidianTruth-API</module>
   	
-  	<module>../WebParmenidianTruth</module>
+  	<module>./WebParmenidianTruth</module>
   </modules>
 </project>
