@@ -10,7 +10,7 @@ It consists of 2 submodules, namely [ParmenidianTruth-API][2] and [WebParmenidia
  * **Load** a project from the server
  * **Visualize** Diachronic Graph(nodes:set of DB's tables, edges:set of FK constraints)/schema versions
  * **Visualize** evolution-related patterns
- * **Compute** evolution-related patterns
+ * **Compute** evolution-related statistics
  
 ### To clone the project, please follow these steps:
 1. In a git bash, type `<git clone https://github.com/kdimolikas/WebSchemaVisualizer.git>`
